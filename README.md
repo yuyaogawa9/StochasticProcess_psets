@@ -7,3 +7,4 @@ Below I summarize each files:
 3) HW3: This homework covers continuous time Markov Process particularly birth-death process. Problems involve finding stationary distributions and obtaining exact or approximation.
 4) HW4: This homework covers the property of Brownian motions and stochastic differential equations. Ito lemma, Ito isometry, and Feynman-Kac formula are assumed as prior knowledge, and final problem solves the Black-Scholes equation.
 5) Final Project: This file contains answers to several SDE. It also covers Fokker-Planck equations to find the evolution of density for some certain SDEs. It also covers numerical solution techniques for parabolic PDEs using Feynman-Kac formula. Implementation is done in Python.
+6) Stochastic Process by Ross: the textbook covered in the class. 
